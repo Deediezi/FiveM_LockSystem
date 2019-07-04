@@ -11,7 +11,7 @@ I'll keep reading your posts and try to update the script when i can. You will b
 
 **You're all amazing !**
 
-You were extremely numerous to use the first version of the script (about **1300** people). Thanks also to the big projects that took the first version of the script as a basis. Being able to provide you with a useful script makes me extremely happy and I hope that this new version will be even better!
+You were extremely numerous to use the first version of the script (about **1300** people). Thanks also to the big projects who took the first version of the script as a basis. Being able to provide you with a useful script makes me extremely happy and I hope that this new version will be even better!
 
 The first version was my first Lua test and I won't lie to you, the code is really badly done. This version is much more optimized and offers more possibilities.
 
