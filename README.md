@@ -2,25 +2,6 @@
 
 [Official FiveM link](https://forum.fivem.net/t/release-locksystem-v2-0-3-updated-the-07-03-at-11pm/17750)
 
-This is the **latest version** of LockSystem. I apologize for the low frequency of updates.
-This is probably my last public project on FiveM due to time constraints, for the moment.
-
-I'll keep reading your posts and try to update the script when i can. You will be notified directly in your console when a new version is released! So feel free to give your feedback and recommendations on the forum. **You can also contribute to the project. You will find a guide below.**
-
-## Thank you very much
-
-**You're all amazing !**
-
-You were extremely numerous to use the first version of the script (about **1300** people). Thanks also to the big projects who took the first version of the script as a basis. Being able to provide you with a useful script makes me extremely happy and I hope that this new version will be even better!
-
-The first version was my first Lua test and I won't lie to you, the code is really badly done. This version is much more optimized and offers more possibilities.
-
-**Great people !**
-
-| Name   | Server       | Why              |
-|--------|--------------|------------------|
-| ⓚⓐⓢⓨ③ⓡ | AmericanLife | Help for testing |
-
 ## Contribution guide
 
 1. Fork the project.
